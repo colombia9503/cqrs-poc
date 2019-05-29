@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      host: 142.93.6.82
+      database: hospital
+      username: root
+      password:      - santex1017
